@@ -42,6 +42,5 @@
 </body>
 </html>
 <?php
-    welcome to php web app 
+echo 'PHP version: ' . phpversion();
 ?>
-   phpinfo()
