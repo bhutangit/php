@@ -41,3 +41,7 @@
 
 </body>
 </html>
+<?php
+    welcome to php web app 
+?>
+   phpinfo()
