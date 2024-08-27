@@ -60,7 +60,7 @@
 <body>
     <div class="container">
         <h2>Contact Us</h2>
-        <form action="your-server-endpoint" method="post">
+        <form action="process_form.php" method="post">
             <div class="form-group">
                 <label for="name">Name:</label>
                 <input type="text" id="name" name="name" required>
@@ -78,7 +78,7 @@
                 <textarea id="message" name="message" required></textarea>
             </div>
             <div class="form-group">
-                <button type="submit">Send Message</button>
+                <input type="submit" value="Register Now" value="submit">
             </div>
         </form>
     </div>
